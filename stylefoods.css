@@ -1,0 +1,510 @@
+body{
+	margin: 0px;
+}
+#search{
+	border:none;
+	background-color: transparent;
+	border-bottom: 1px solid white;
+	padding-left: 30px;
+	height: 35px;
+	width: 220px;
+	color: white;
+	font-size: 17px;
+}
+
+#search:focus{
+	outline: none;
+}
+#search:focus,
+#search:hover{
+	box-shadow: 0 0.5em 0.5em -0.4em;
+}
+#ok{
+	height: 620px;
+	width: 100%;
+	background: rgba(255,255,255,0.18);
+}
+#div1{
+	background-image: url("image/img11.jpg");
+	background-size: 100% 100%;
+	height:600px;
+	width:100%;
+}
+#div1-1 img{
+	position: absolute;
+	left: -5px;
+	top: 20px;
+}
+#div1-2{
+	position: absolute;
+	left:64%;
+	top: 24px;
+}
+#div1-3 img {
+	position: absolute;
+	left: 3px;
+	top: 6px;
+}
+#div1-3{
+	position: absolute;
+	left:79%;
+	top: 20px;
+}
+#m1 a img:hover{
+	transform: translateY(-0.35em);
+}
+#chef h1{
+	padding-left: 10px;
+	margin-left:25%;
+	font-size: 43px;
+    font-weight: 600;
+    width: 450px;
+    background-color: black;
+    letter-spacing: -.03em;
+    letter-spacing: 10px;
+    font-family: ui-monospace;
+    color: floralwhite;
+}
+#button {
+	height: 30px;
+	width: 90px;
+	color: white;
+	border: 1px solid white;
+    background: transparent;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2),
+				0 6px 12px 0 rgba(0,0,0,0.19);
+}
+#button:hover,
+#button:focus {
+	box-shadow: 0 0.5em 0.5em -0.4em;
+	transform: translateY(-0.25em); 
+}
+#menu li {
+	float: left;
+	width: 120px;
+	height: 80px;
+}
+#menu ul{
+	list-style: none;
+	position: absolute;
+	left: 40%;
+	top: 90px;
+}
+#menu a{
+	font-family: 'Raleway', Arial, sans-serif;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: white;
+	display: block;
+	width: 120px;
+	text-align: center;
+	padding: 12px;
+	height: 50px;
+	font-size: large ;
+	box-shadow: 0 0.5em 0.5em -0.4em;
+}
+#menu #menu1 {
+	width: 150px;
+}
+#menu #menu1 a{
+	width: 150px;
+}
+
+#menu a:hover{
+	box-shadow: 0 0.5em 0.5em -0.4em;
+	transform: translateY(-0.25em);
+	border-bottom: 2px solid pink;
+	border-top: 2px solid pink;
+}
+#title h1:hover{
+	box-shadow: 0 0.5em 0.5em -0.4em;
+	transform: translateY(-0.25em);
+}
+#chef h1:hover{
+	box-shadow: 0 0.5em 0.5em -0.4em;
+	transform: translateY(-0.25em);
+}
+#png1 img:hover{
+	transform: translateY(-0.25em);
+}
+#png2 img:hover{
+	transform: translateY(-0.25em);
+}
+#title{
+	width: 750px;
+}
+#p2 .nv {
+	text-decoration: line-through;
+	color: blue;
+	font-size: 18px;
+}
+.most{
+	position: relative;
+	left: 28px;
+	background-color: red;
+	color: white;
+	width: 280px;
+	height: 60px;
+	margin-bottom: 2px;
+	border-radius: 10px 10px;
+}
+.dec{
+	position: relative;
+	left: 28px;
+	background-color: red;
+	color: white;
+	width: 150px;
+	height: 60px;
+	margin-bottom: 2px;
+	border-radius: 10px 10px;
+}
+#pkn{
+	text-transform: lowercase;
+	margin-left: 18px;
+}
+.hr{
+	border-bottom: 1px solid red;
+	margin-bottom: 20px;
+}
+#title p{
+	margin-left: 39%;
+    margin-top: 26px;
+    color: lavenderblush;
+    font-family: cursive;
+    font-size: 19px;
+}
+#title div{
+	margin-bottom: 24px;
+}
+#title span{
+	margin-left: 8%;
+    margin-top: 26px;
+    color: lavenderblush;
+    font-family: cursive;
+    font-size: 19px;
+}
+#png1{
+	position: absolute;
+	left: 1230px;
+	top: 50px
+}
+#png2{
+	position: absolute;
+	left: 1224px;
+	top: 107px
+}
+#div1 a span{
+	position: absolute;
+	top: 18px;
+	color: #645b5b;
+	margin-left:157px;
+	font-size: 60px;
+	font-family: Arial Black;
+}
+#div1 a img{
+	margin-left: 44px;
+}
+#title img{
+	margin-left: 240px;
+}
+#title .prdiv{
+	margin-top: 40px;
+}
+#line #prmier{
+	font-size: xx-large;
+    font-family: cursive;
+    color: floralwhite;
+}
+#chef div{
+	display: inline-block;
+	margin-left: 3px;
+}
+#chef #shef{
+	background-color: white;
+	height: 90px;
+	width: 440px;
+	color: black;
+	border:1px solid black;
+	position: relative;
+	left:-3px;
+	text-align: center;
+	border-radius: 10px 10px;
+}
+#chef #shef:hover{
+	transform: translateY(-0.45em);
+	background-color: black;
+	color:white;
+}
+#chef #shef p{
+	font-size: 20px;
+}
+#title #prmier{
+	font-size: xx-large;
+    font-family: cursive;
+    color: floralwhite;
+}
+#title .h1{
+	width: 320px;
+}
+#title .h2{
+	width: 350px;
+}
+#title #line{
+	line-height: 30px;
+}
+#title .h1{
+	width: 320px;
+}
+#m1 .log{
+	position: relative;
+	top: 18px;
+	color: #645b5b;
+	font-size: 40px;
+	font-family: Arial Black;
+}
+#m1 .log2{
+	position: relative;
+	left: 2px;
+}
+#information input,#information textarea{
+	margin-bottom: 20px;
+}
+#information #h1info ,
+#information #h2info{
+	margin-bottom: 30px;
+	margin-left: 150px;
+	padding-left: 20px;
+	font-size: 43px;
+    font-weight: 600;
+    width: 800px;
+    letter-spacing: -.03em;
+    letter-spacing: 10px;
+    font-family: ui-monospace;
+    border-bottom: 2px solid blue;
+    border-radius:15px 15px;
+}
+#information #loginf,
+#information #loginf2{
+	background-color: black;
+	margin-bottom: 45px;
+	height: 580px;
+	border-radius: 17px 17px;
+	box-shadow: 0 0.5em 1.9em -0.1em;
+}
+#information #login5{
+	margin-top: 50px;
+}
+#information #loginf2{
+	background-color: black;
+	margin-bottom: 45px;
+	height: 900px;
+	width: 600px;
+	border-radius: 17px 17px;
+	box-shadow: 0 0.5em 1.9em -0.1em;
+}
+#information #check1,
+#information #check{
+	margin-left: 60px;
+	margin-bottom: 30px;
+}
+#information #check1{
+	margin-left: 100px;
+}
+#information p,
+#information p a{
+	font-size: 15px;
+	margin-left: 60px;
+	margin-bottom: 15px;
+	color: blue;
+}
+#loginf p a:hover,
+#loginf a p:hover {
+	color: red;
+}
+#loginf2 p a:hover{
+	color: red;
+	font-size: 18px; 
+}
+#information #check1:checked + label,
+#information #check:checked + label{
+	color: blue;
+}
+#information .spn2{
+	margin-left: 30px;
+	font-size: 16px;
+	color: white;
+}
+#information .spn1{
+	font-size: 15px;
+	margin-left: 5px;
+}
+#information #login,
+#information #loginp,
+#information #loginm,
+#information #login5,
+#information #login1,
+#information #login4,
+#information #login3{
+	width: 300px;
+	border:none;
+	border-bottom: 2px solid purple;
+	border-radius: 7px 7px;
+	margin-bottom: 55px;
+	padding-left:40px; 
+	margin-left: 100px;
+	background:transparent;
+}
+#information #login1{
+	background-image: url("image/usr.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+#information #loginf #login{
+	background-image: url("image/msg.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+#information #loginf2 #login5,
+#information #loginf2 #login{
+	background-image: url("image/usr.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+#information #loginf2 #loginp{
+	background-image: url("image/msg.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+#information #loginf2 #loginm{
+	background-image: url("image/lk.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+#information #login3,
+#information #login4{
+	border-top:2px solid purple;
+	width: 100px;
+	background-color: transparent;
+	color:white;
+	letter-spacing: 4px;
+	padding-left: 18px;
+	box-shadow: 0 0.5em 0.5em -0.4em;
+}
+#information #login4{
+	width: 120px;
+}
+#information #login3:hover{
+	box-shadow: 0 0.5em 0.5em -0.4em;
+	transform: translateY(0.45em);
+}
+#information #login1{
+	margin-top: 100px;
+}
+#information #h2info {
+	margin-bottom: 70px;
+	width: 470px;
+	border-bottom: 2px solid purple;
+	box-shadow: 0 0.5em 0.5em -0.4em;
+}
+.drink{
+	position: relative;
+	left: 28px;
+	background-color: red;
+	color: white;
+	width: 210px;
+	height: 60px;
+	margin-bottom: 2px;
+	border-radius: 10px 10px;
+}
+#title h1{
+	padding-left: 10px;
+	margin-top: 0px;
+	margin-left:25%;
+	font-size: 43px;
+    font-weight: 600;
+    letter-spacing: -.03em;
+    letter-spacing: 10px;
+    font-family: ui-monospace;
+    color: floralwhite;
+}
+#mmm {
+	margin-bottom: 20px;
+}
+#mmm img{
+	height: 300px;
+	width: 300px;
+}
+#mmm h1 {
+	padding-top: 9px;
+	margin-bottom: 10px;
+	margin-left: 18px;
+}
+#mmm p {
+	font-size:medium ;
+}
+#mmm #p1 {
+	text-align: center;
+	font-size: x-large ;
+	font-weight:bold;
+}
+#mmm #p2 {
+	margin-left: 30px;
+	font-size: large ;
+	font-weight:bold;
+}
+#div2{
+	position: absolute;
+	top: 200px;
+}
+#div3 {
+	background-color: #303030;
+	background-size: 100% 400px;
+}
+#fin #m1, #m2 , #m3, #m4{
+	display: inline-block;
+	text-align: center;
+	margin-top: 0px;
+	padding-top: 40px;
+	color: white; 
+}
+#m2 h1,#m3 h1{
+	margin-bottom: 30px;
+}
+#m2 p {
+	margin-left: 10px;
+	display: inline-block;
+	margin-bottom: 30px;
+	font-size:15px;
+}
+#m3 p{
+	margin-bottom: 30px;
+	font-size:15px;
+}
+#m4 img {
+	margin-bottom: 20px;
+}
+#m4 .google img:hover{
+	border:2px solid black;
+}
+#m3 a:hover{
+	color: white;
+}
+#fin #m4{
+	border:none;
+}
+#devel{
+	background-color: black;
+	color: white;
+	text-align: center;
+	height: 50px;
+	padding-top: 10px;
+}
+#buy{
+	height: 30px;
+	width: 90px;
+	color: black;
+	border: 1px solid white;
+    background: transparent;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2),
+				0 6px 12px 0 rgba(0,0,0,0.19);
+}
