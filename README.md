@@ -2,7 +2,7 @@
 
 ## 📖 Overview
 
-"My-first-static-website" is a static website project developed using HTML, CSS, and Bootstrap. It was originally created in 2019 as my first project with HTML and serves as a showcase for my skills and knowledge in web development. The website features a clean and modern user interface, designed to provide an engaging and intuitive experience for visitors.
+"My-first-static-website" is a static website project developed using HTML, CSS, and Bootstrap. It was originally created in 2020 as my first project with HTML and serves as a showcase for my skills and knowledge in web development. The website features a clean and modern user interface, designed to provide an engaging and intuitive experience for visitors.
 
 ## ✨ Features
 
@@ -26,7 +26,7 @@
 
 ## ℹ️ About the Project
 
-This project was created in 2019 as my first project with HTML. It showcases my skills and knowledge in web development and serves as a demonstration of a static website with a clean and modern user interface.
+This project was created in 2020 as my first project with HTML. It showcases my skills and knowledge in web development and serves as a demonstration of a static website with a clean and modern user interface.
 
 ## 🤝 Contributing
 
