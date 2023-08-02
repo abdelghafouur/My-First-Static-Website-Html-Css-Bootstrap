@@ -31,3 +31,7 @@ This project was created in 2020 as my first project with HTML. It showcases my 
 ## 🤝 Contributing
 
 Contributions to the project are welcome! If you would like to contribute, please fork the repository and submit a pull request with your changes.
+
+## Contact 📧
+
+For any inquiries or feedback, please reach out to abdelghafourlahnida01@gmail.com.
